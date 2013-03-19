@@ -2,5 +2,5 @@
 !define USER_HOME {/Users/meetumaltiar}
 
 !path ${USER_HOME}/.sbt/boot/scala-2.9.1/lib/scala-library.jar
-!path  ../lib/fitlibrary-20080812.jar
+!path  ${USER_HOME}/.ivy2/cache/org.fitnesse/fitlibrary/jars/fitlibrary-20080812.jar
 !path  ../target/scala-2.9.1/classes
