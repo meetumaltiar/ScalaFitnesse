@@ -1,8 +1,3 @@
-!define TEST_SYSTEM {slim}
-!path /Users/meetumaltiar/.sbt/boot/scala-2.9.1/lib/scala-library.jar
-!path  ../lib/fitlibrary-20080812.jar
-!path  ../target/scala-2.9.1/classes
-
 |import| 
 |com.knoldus.fixture|
 
