@@ -22,4 +22,6 @@ logs/*
 .settings/
 fitnesse/FitNesseRoot/ErrorLogs/
 fitnesse/FitNesseRoot/files/
-
+fitnesse/FitNesseRoot/*.zip
+fitnesse/FitNesseRoot/RecentChanges/*.zip
+fitnesse/FitNesseRoot/TaxCalculationSuite/TaxCalculationTest/*.zip

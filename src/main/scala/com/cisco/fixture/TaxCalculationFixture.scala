@@ -1,7 +1,7 @@
-package com.knoldus.fixture
+package com.cisco.fixture
 
 import fitlibrary.DoFixture
-import com.knoldus.tax.TaxCalculatorService
+import com.cisco.tax.TaxCalculatorService
 
 /**
  * A Fixture acts as a bridge between Wiki Tests and System Under Test

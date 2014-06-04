@@ -1,5 +1,5 @@
 |import| 
-|com.knoldus.fixture|
+|com.cisco.fixture|
 
 !|script | TaxCalculationFixture|
 |the tax for annual income|200000|is|30000|

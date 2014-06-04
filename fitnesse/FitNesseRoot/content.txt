@@ -1,6 +1,6 @@
 !define TEST_SYSTEM {slim}
-!define USER_HOME {/Users/meetumaltiar}
+!define USER_HOME {/Users/mmaltiar}
 
-!path ${USER_HOME}/.sbt/boot/scala-2.9.1/lib/scala-library.jar
+!path ${USER_HOME}/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 !path  ${USER_HOME}/.ivy2/cache/org.fitnesse/fitlibrary/jars/fitlibrary-20080812.jar
-!path  ../target/scala-2.9.1/classes
+!path  /Users/mmaltiar/github/ScalaFitnesse/target/scala-2.10/classes
